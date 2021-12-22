@@ -5,7 +5,7 @@ public class gittest {
         System.out.print("hellow git3! ");
         System.out.print("hellow git4! ");
         System.out.print("hellow git5! ");
-
+        System.out.print("master！ ");
     }
 }
 
